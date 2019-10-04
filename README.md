@@ -9,9 +9,9 @@ __Ready for a brand new limited edition T-shirt from Digital Ocean?__
 
 Well, all you need to do is:
 
-- register to: [link to hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
+- Register to: [hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
 
-- make four pull requests (PRs) between October 1-31 (in any time zone).
+- Make four pull requests (PRs) between October 1-31 (in any time zone).
 
 **Before we run into nerdy stuff I want to say thank you for all your contributions!**
 
@@ -21,9 +21,9 @@ First thing first:
 
 - clone or fork this project [simple guide how to clone/fork projects from Github](https://www.stevejgordon.co.uk/forking-cloning-github)
 
-- add your name + surname to the __CONTRIBUTING.md__ file
+- Add your name + surname to the __CONTRIBUTING.md__ file
 
-- you must edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
+- You must edit one of the two file that I've created (__I_LOVE_CODE.json__) or (__PROGRAMMERS_BEST_FRIEND.json__)
 
 * What's a [.json](https://en.wikipedia.org/wiki/JSON) file?
 
@@ -46,3 +46,5 @@ Example:
   MybestFriends: ["Google Chrome DevTools", "Terminal", "Visual Studio"]
 }
 ```
+
+__Happy hacking!__
