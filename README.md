@@ -1,4 +1,4 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2019 :robot:
 
 ![Hacktoberfest 2019](/images/hacktoberfest2019.png)
 
@@ -46,3 +46,6 @@ Example:
   MybestFriends: ["Google Chrome DevTools", "Terminal", "Visual Studio"]
 }
 ```
+
+ __Happy hacking!__
+
