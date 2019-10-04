@@ -1,4 +1,4 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2019 :robot:
 
 ![Hacktoberfest 2019](/images/hacktoberfest2019.png)
 
@@ -47,4 +47,4 @@ Example:
 }
 ```
 
-__Happy hacking!__
+ __Happy hacking!__
