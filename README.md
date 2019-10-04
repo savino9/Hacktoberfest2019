@@ -65,3 +65,5 @@ Another example just to be 100% sure :)
   MybestFriends: ["Atom", "Sublime", "Postman"]
 },
 ```
+
+__Happy Hacking!__ :trollface:
