@@ -1,4 +1,4 @@
-# Hacktoberfest 2019
+# Hacktoberfest 2019 :robot:
 
 ![Hacktoberfest 2019](/images/hacktoberfest2019.png)
 
@@ -9,7 +9,7 @@ __Ready for a brand new limited edition T-shirt from Digital Ocean?__
 
 Well, all you need to do is:
 
-- Register to: [link to hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
+- Register to: [hacktoberfest2019](https://hacktoberfest.digitalocean.com/)
 
 - Make four pull requests (PRs) between October 1-31 (in any time zone).
 
@@ -65,3 +65,5 @@ Another example just to be 100% sure :)
   MybestFriends: ["Atom", "Sublime", "Postman"]
 },
 ```
+
+ __Happy hacking!__
